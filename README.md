@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SongOfFools
+- 👋 Hi, I’m Melissa 
 - 👀 I’m interested in cloud tech, cybersecurity, music, and reading
 - 🌱 I’m currently learning python and AWS
 - 💞️ I’m looking to collaborate on ...
